@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6efa32cd-d7f4-4391-bdae-f3de86e248ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/browserfactory/ManageBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/AddUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/pages/ViewSystemUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/orangehrmlive/demo/utilities/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/cucumber/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/cucumber/runner/RegressionTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/cucumber/runner/SanityTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/cucumber/runner/SmokeTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/cucumber/steps/LoginSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/orangehrmlive/demo/cucumber/steps/UsersSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/extentreport/extent-cofig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/Users.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertiesfile/log4j2.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q9SUxq6Y9r75s4452Yl3T0gJFM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/romal/IdeaProjects/project-orange-hrm-sw-7/src/test/java/com/orangehrmlive/demo/cucumber/steps&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.orangehrmlive.demo.cucumber.runner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Verify user should Logout successfully">
+    <configuration name="Scenario: Verify user should Logout successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/resources/featurefile/Login.feature" />
+      <option name="GLUE" value="com.orangehrmlive.demo.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="project-orange-hrm-sw-7" />
+      <option name="NAME_FILTER" value="^Verify user should Logout successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Verify user should Logout successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify user should Logout successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-orange-hrm-sw-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.cucumber.runner.RegressionTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SanityTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-orange-hrm-sw-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.cucumber.runner.SanityTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-orange-hrm-sw-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrmlive.demo.cucumber.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrmlive.demo.cucumber.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrmlive.demo.cucumber.runner.SmokeTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Verify user should Logout successfully" />
+        <item itemvalue="JUnit.RegressionTestRunner" />
+        <item itemvalue="JUnit.SmokeTestRunner" />
+        <item itemvalue="JUnit.SanityTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6efa32cd-d7f4-4391-bdae-f3de86e248ae" name="Changes" comment="" />
+      <created>1684764324079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684764324079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
